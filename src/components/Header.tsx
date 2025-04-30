@@ -11,12 +11,6 @@ function Header() {
         <Link to="/tutoring">Tutoring</Link>
         {/* <Link to="/blog">Blog</Link> Uncomment to add blog link */}
       </nav>
-    {/*  <nav>*/}
-    {/*       <a href="/">Home</a>*/}
-    {/*<a href="/projects">Projects</a>*/}
-    {/*<a href="/tutoring">Tutoring</a>*/}
-    {/*/!*<a href="/blog">Blog</a>*!/ */}
-    {/*  </nav>*/}
     </header>
   );
 }
