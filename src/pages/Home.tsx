@@ -49,7 +49,7 @@ function Home() {
         {/*    </p>*/}
     </div>
         <div className="profile-pic">
-            <img src="src/assets/profile.jpg"
+            <img src="/profile.jpg"
                  alt="Me, on a road trip along Highway One." />
         </div>
     </div>
