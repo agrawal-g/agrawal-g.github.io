@@ -1,4 +1,4 @@
-
+import ProfilePic from '../assets/profile.jpg';
 
 function Home() {
   return (
@@ -49,7 +49,7 @@ function Home() {
         {/*    </p>*/}
     </div>
         <div className="profile-pic">
-            <img src="/profile.jpg"
+            <img src={ProfilePic}
                  alt="Me, on a road trip along Highway One." />
         </div>
     </div>

@@ -1,4 +1,5 @@
 import ProjectCard from '../components/ProjectCard';
+import APS_PIC from '../assets/APS_APRIL_24.jpg';
 
 const Projects = () => {
   return (
@@ -47,7 +48,7 @@ mic Ray Anisotropy With Ten Years of Data Collected With IceTop,” American Phy
 Undergraduate Women in Physics at UMich-Ann Arbor, Jan 2024._
          `}
         // link="https://meetings.aps.org/Meeting/APR24/Session/C14.5"
-        imageUrl="/APS_APRIL_24.JPG"
+        imageUrl={APS_PIC}
       />
       <ProjectCard
         title="Plotting the Trajectory of Test Particles Around Rotating Black Holes"
