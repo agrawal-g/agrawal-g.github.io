@@ -6,7 +6,7 @@ function Tutoring() {
                 <p>I've tutored for over ten years, working with students from
                     middle-school through college, aiding with both coursework
                     and standardized test preparation. I now run a tutoring
-                    agency, <b>The Solutions Manual, Inc.</b> which offers
+                    agency, <b>Spacebound Tutoring, Inc.</b> which offers
                     tutoring services for students of all ages, tailored for
                     every students' needs, including, but not limited to,
                     the CPS HSAT, SSAT, SAT, ACT, CLEP, and LSAT exams.
